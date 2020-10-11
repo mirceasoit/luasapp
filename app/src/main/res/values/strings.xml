@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luas</string>
+    <string name="station_name_label">Station:</string>
+    <string name="direction_label">Direction:</string>
+    <string name="destination_label">Destination:</string>
+    <string name="due_mins_label">Due Mins:</string>
+    <string name="refresh">refresh</string>
+    <string name="tram_click_message">Tram have been clicked</string>
+</resources>
