@@ -1,7 +1,7 @@
 # RIM Employee LUAS App
 RIM Employee LUAS App
 
-A lot of Retail inMotion employees commute from city center to the office using LUAS (tram system in Dublin, Ireland) every day. To avoid waiting too much at the stops, people would like to have an app where it is possible to see trams forecast. So, to help our employee, write a simple app considering only the following requests:
+A lot of RIM employees commute from city center to the office using LUAS (tram system in Dublin, Ireland) every day. To avoid waiting too much at the stops, people would like to have an app where it is possible to see trams forecast. So, to help our employee, write a simple app considering only the following requests:
 
 Given I am a LUAS passenger
 When I open the app from 00:00 – 12:00
